@@ -1,3 +1,28 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://policia.wiki.br/"
+languageCode = "pt-br"
+title = "Polícia wiki"
+theme = "researcher"
+enableEmoji = true
+
+[params]
+  author = "Joubert RedRat"
+  description = "Wiki contendo algumas informações interessantes sobre as polícias do Brasil"
+  favicon = "assets/favicon/favicon.ico"
+  [params.style]
+    pageWidth = "1100px"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "Sobre"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Links úteis"
+    url = "/links-uteis"
+    weight = 2
+
+[markup.goldmark.renderer]
+  unsafe = true
