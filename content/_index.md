@@ -1,5 +1,5 @@
 +++
-title = "Joubert RedRat - About"
+title = "Links úteis - Sobre o wiki"
 +++
 
 ## Sobre o wiki
