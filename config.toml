@@ -21,9 +21,13 @@ googleAnalytics = "G-CP72BMF0ET"
     url = "/"
     weight = 1
   [[menu.main]]
+    name = "Brasões, logos e escudos"
+    url = "/brasoes-logos-escudos"
+    weight = 2
+  [[menu.main]]
     name = "Links úteis"
     url = "/links-uteis"
-    weight = 2
+    weight = 3
 
 [markup.goldmark.renderer]
   unsafe = true
