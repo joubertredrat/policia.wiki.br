@@ -8,7 +8,7 @@ title = "Polícia wiki - Brasões, Logos e Escudos"
 
 | Corpo de Bombeiros | Polícia Civil | Polícia Militar |
 |---|---|---|
-| ![Brasão Polícia Militar AC](/assets/images/brasoes/aa/pm_thumb.png) | ![Brasão Polícia Civil AC](/assets/images/brasoes/aa/pc_thumb.png) | ![Brasão Corpo de Bombeiros AC](/assets/images/brasoes/aa/bombeiros_thumb.png) |
+| ![Brasão Corpo de Bombeiros AC](/assets/images/brasoes/ac/bombeiros_thumb.png) | ![Brasão Polícia Civil AC](/assets/images/brasoes/ac/pc_thumb.png) | ![Brasão Polícia Militar AC](/assets/images/brasoes/ac/pm_thumb.png) |
 
 #### Alagoas (AL)
 
@@ -20,19 +20,19 @@ title = "Polícia wiki - Brasões, Logos e Escudos"
 
 | Corpo de Bombeiros | Polícia Civil | Polícia Militar |
 |---|---|---|
-| ![Brasão Polícia Militar AP](/assets/images/brasoes/aa/pm_thumb.png) | ![Brasão Polícia Civil AP](/assets/images/brasoes/aa/pc_thumb.png) | ![Brasão Corpo de Bombeiros AP](/assets/images/brasoes/aa/bombeiros_thumb.png) |
+| ![Brasão Corpo de Bombeiros AP](/assets/images/brasoes/ap/bombeiros_thumb.png) | ![Brasão Polícia Civil AP](/assets/images/brasoes/ap/pc_thumb.png) | ![Brasão Polícia Militar AP](/assets/images/brasoes/ap/pm_thumb.png) |
 
 #### Amazonas (AM)
 
 | Corpo de Bombeiros | Polícia Civil | Polícia Militar |
 |---|---|---|
-| ![Brasão Polícia Militar AM](/assets/images/brasoes/aa/pm_thumb.png) | ![Brasão Polícia Civil AM](/assets/images/brasoes/aa/pc_thumb.png) | ![Brasão Corpo de Bombeiros AM](/assets/images/brasoes/aa/bombeiros_thumb.png) |
+| ![Brasão Corpo de Bombeiros AM](/assets/images/brasoes/am/bombeiros_thumb.png) | ![Brasão Polícia Civil AM](/assets/images/brasoes/am/pc_thumb.png) | ![Brasão Polícia Militar AM](/assets/images/brasoes/am/pm_thumb.png) | 
 
 #### Bahia (BA)
 
 | Corpo de Bombeiros | Polícia Civil | Polícia Militar |
 |---|---|---|
-| ![Brasão Polícia Militar BA](/assets/images/brasoes/aa/pm_thumb.png) | ![Brasão Polícia Civil BA](/assets/images/brasoes/aa/pc_thumb.png) | ![Brasão Corpo de Bombeiros BA](/assets/images/brasoes/aa/bombeiros_thumb.png) |
+| ![Brasão Corpo de Bombeiros BA](/assets/images/brasoes/ba/bombeiros_thumb.png) | ![Brasão Polícia Civil BA](/assets/images/brasoes/ba/pc_thumb.png) | ![Brasão Polícia Militar BA](/assets/images/brasoes/ba/pm_thumb.png) |
 
 #### Ceará (CE)
 
@@ -44,7 +44,7 @@ title = "Polícia wiki - Brasões, Logos e Escudos"
 
 | Corpo de Bombeiros | Polícia Civil | Polícia Militar |
 |---|---|---|
-| ![Brasão Polícia Militar DF](/assets/images/brasoes/aa/pm_thumb.png) | ![Brasão Polícia Civil DF](/assets/images/brasoes/aa/pc_thumb.png) | ![Brasão Corpo de Bombeiros DF](/assets/images/brasoes/aa/bombeiros_thumb.png) |
+| ![Brasão Corpo de Bombeiros DF](/assets/images/brasoes/df/bombeiros_thumb.png) | ![Brasão Polícia Civil DF](/assets/images/brasoes/df/pc_thumb.png) | ![Brasão Polícia Militar DF](/assets/images/brasoes/df/pm_thumb.png) |
 
 #### Espirito Santo (ES)
 
@@ -56,13 +56,13 @@ title = "Polícia wiki - Brasões, Logos e Escudos"
 
 | Corpo de Bombeiros | Polícia Civil | Polícia Militar |
 |---|---|---|
-| ![Brasão Polícia Militar GO](/assets/images/brasoes/aa/pm_thumb.png) | ![Brasão Polícia Civil GO](/assets/images/brasoes/aa/pc_thumb.png) | ![Brasão Corpo de Bombeiros GO](/assets/images/brasoes/aa/bombeiros_thumb.png) |
+| ![Brasão Corpo de Bombeiros GO](/assets/images/brasoes/go/bombeiros_thumb.png) | ![Brasão Polícia Civil GO](/assets/images/brasoes/go/pc_thumb.png) | ![Brasão Polícia Militar GO](/assets/images/brasoes/go/pm_thumb.png) |
 
 #### Maranhão (MA)
 
 | Corpo de Bombeiros | Polícia Civil | Polícia Militar |
 |---|---|---|
-| ![Brasão Polícia Militar MA](/assets/images/brasoes/aa/pm_thumb.png) | ![Brasão Polícia Civil MA](/assets/images/brasoes/aa/pc_thumb.png) | ![Brasão Corpo de Bombeiros MA](/assets/images/brasoes/aa/bombeiros_thumb.png) |
+| ![Brasão Corpo de Bombeiros MA](/assets/images/brasoes/ma/bombeiros_thumb.png) | ![Brasão Polícia Civil MA](/assets/images/brasoes/ma/pc_thumb.png) | ![Brasão Polícia Militar MA](/assets/images/brasoes/ma/pm_thumb.png) |
 
 
 #### Mato Grosso (MT)
@@ -75,7 +75,7 @@ title = "Polícia wiki - Brasões, Logos e Escudos"
 
 | Corpo de Bombeiros | Polícia Civil | Polícia Militar |
 |---|---|---|
-| ![Brasão Polícia Militar MS](/assets/images/brasoes/aa/pm_thumb.png) | ![Brasão Polícia Civil MS](/assets/images/brasoes/aa/pc_thumb.png) | ![Brasão Corpo de Bombeiros MS](/assets/images/brasoes/aa/bombeiros_thumb.png) |
+| ![Brasão Corpo de Bombeiros MS](/assets/images/brasoes/ms/bombeiros_thumb.png) | ![Brasão Polícia Civil MS](/assets/images/brasoes/ms/pc_thumb.png) | ![Brasão Polícia Militar MS](/assets/images/brasoes/ms/pm_thumb.png) |
 
 #### Minas Gerais (MG)
 
@@ -99,7 +99,7 @@ title = "Polícia wiki - Brasões, Logos e Escudos"
 
 | Corpo de Bombeiros | Polícia Civil | Polícia Militar |
 |---|---|---|
-| ![Brasão Polícia Militar PR](/assets/images/brasoes/aa/pm_thumb.png) | ![Brasão Polícia Civil PR](/assets/images/brasoes/aa/pc_thumb.png) | ![Brasão Corpo de Bombeiros PR](/assets/images/brasoes/aa/bombeiros_thumb.png) |
+| ![Brasão Corpo de Bombeiros PR](/assets/images/brasoes/pr/bombeiros_thumb.png) | ![Brasão Polícia Civil PR](/assets/images/brasoes/pr/pc_thumb.png) | ![Brasão Polícia Militar PR](/assets/images/brasoes/pr/pm_thumb.png) |
 
 #### Pernambuco (PE)
 
@@ -141,13 +141,13 @@ title = "Polícia wiki - Brasões, Logos e Escudos"
 
 | Corpo de Bombeiros | Polícia Civil | Polícia Militar |
 |---|---|---|
-| ![Brasão Polícia Militar RR](/assets/images/brasoes/aa/pm_thumb.png) | ![Brasão Polícia Civil RR](/assets/images/brasoes/aa/pc_thumb.png) | ![Brasão Corpo de Bombeiros RR](/assets/images/brasoes/aa/bombeiros_thumb.png) |
+| ![Brasão Corpo de Bombeiros RR](/assets/images/brasoes/rr/bombeiros_thumb.png) | ![Brasão Polícia Civil RR](/assets/images/brasoes/rr/pc_thumb.png) | ![Brasão Polícia Militar RR](/assets/images/brasoes/rr/pm_thumb.png) |
 
 #### Santa Catarina (SC)
 
 | Corpo de Bombeiros | Polícia Civil | Polícia Militar |
 |---|---|---|
-| ![Brasão Polícia Militar SC](/assets/images/brasoes/aa/pm_thumb.png) | ![Brasão Polícia Civil SC](/assets/images/brasoes/aa/pc_thumb.png) | ![Brasão Corpo de Bombeiros SC](/assets/images/brasoes/aa/bombeiros_thumb.png) |
+| ![Brasão Corpo de Bombeiros SC](/assets/images/brasoes/sc/bombeiros_thumb.png) | ![Brasão Polícia Civil SC](/assets/images/brasoes/sc/pc_thumb.png) | ![Brasão Polícia Militar SC](/assets/images/brasoes/sc/pm_thumb.png) |
 
 #### São Paulo (SP)
 
@@ -165,4 +165,4 @@ title = "Polícia wiki - Brasões, Logos e Escudos"
 
 | Corpo de Bombeiros | Polícia Civil | Polícia Militar |
 |---|---|---|
-| ![Brasão Polícia Militar TO](/assets/images/brasoes/aa/pm_thumb.png) | ![Brasão Polícia Civil TO](/assets/images/brasoes/aa/pc_thumb.png) | ![Brasão Corpo de Bombeiros TO](/assets/images/brasoes/aa/bombeiros_thumb.png) |
+| ![Brasão Corpo de Bombeiros TO](/assets/images/brasoes/to/bombeiros_thumb.png) | ![Brasão Polícia Civil TO](/assets/images/brasoes/to/pc_thumb.png) | ![Brasão Polícia Militar TO](/assets/images/brasoes/to/pm_thumb.png) |
