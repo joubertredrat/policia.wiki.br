@@ -130,7 +130,7 @@ Abaixo link das respectivas forças de segurança.
 
 * Corpo de Bombeiros: https://www.bombeiros.rs.gov.br/
 * Polícia Civil: https://www.pc.rs.gov.br/
-* Polícia Militar: https://www.brigadamilitar.rs.gov.br/
+* Brigada Militar: https://www.brigadamilitar.rs.gov.br/
 
 #### Rondônia (RO)
 

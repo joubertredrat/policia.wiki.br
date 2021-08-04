@@ -127,7 +127,7 @@ title = "Polícia wiki - Brasões, Logos e Escudos"
 
 #### Rio Grande do Sul (RS)
 
-| Corpo de Bombeiros | Polícia Civil | Polícia Militar |
+| Corpo de Bombeiros | Polícia Civil | Brigada Militar |
 |---|---|---|
 | ![Brasão Corpo de Bombeiros RS](/assets/images/brasoes/rs/bombeiros_thumb.png) | ![Brasão Polícia Civil RS](/assets/images/brasoes/rs/pc_thumb.png) | ![Brasão Brigada Militar RS](/assets/images/brasoes/rs/bm_thumb.png) |
 
