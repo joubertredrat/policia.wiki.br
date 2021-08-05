@@ -10,7 +10,7 @@ Abaixo link das respectivas forças de segurança.
 
 * Corpo de Bombeiros: http://cbmac.acre.gov.br/
 * Polícia Civil: http://policiacivil.acre.gov.br/
-* Polícia Militar:
+* Polícia Militar: http://pmac.acre.gov.br/
 
 #### Alagoas (AL)
 
@@ -26,7 +26,7 @@ Abaixo link das respectivas forças de segurança.
 
 #### Amazonas (AM)
 
-* Corpo de Bombeiros:
+* Corpo de Bombeiros: http://www.cbm.am.gov.br/
 * Polícia Civil: http://www.policiacivil.am.gov.br/
 * Polícia Militar: https://pm.am.gov.br/
 
@@ -130,7 +130,7 @@ Abaixo link das respectivas forças de segurança.
 
 * Corpo de Bombeiros: https://www.bombeiros.rs.gov.br/
 * Polícia Civil: https://www.pc.rs.gov.br/
-* Polícia Militar: https://www.brigadamilitar.rs.gov.br/
+* Brigada Militar: https://www.brigadamilitar.rs.gov.br/
 
 #### Rondônia (RO)
 
@@ -165,5 +165,5 @@ Abaixo link das respectivas forças de segurança.
 #### Tocantins (TO)
 
 * Corpo de Bombeiros: https://bombeiros.to.gov.br/
-* Polícia Civil:
+* Polícia Civil: https://www.to.gov.br/ssp/policia-civil/
 * Polícia Militar: https://pm.to.gov.br/

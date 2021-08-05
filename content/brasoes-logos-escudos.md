@@ -4,14 +4,16 @@ title = "Polícia wiki - Brasões, Logos e Escudos"
 
 ## Brasões, Logos e Escudos
 
-My public resume can be viewed at LinkedIn in links below:
+Um dos pontos mais marcantes de cada uma das forças de segurança é justamente seus respectivos brasões, logos ou escudos, pois tem elementos que definem a cultura, tanto da força em si, quanto do estado que este representa. Sendo assim, é interessante visualizar estes brasões, logos, escudos lado a lado.
 
-* English: https://www.linkedin.com/in/joubertredrat/?locale=en_US
-* Brazilian portuguese: https://www.linkedin.com/in/joubertredrat/
+Vale lembrar que em todas as visualizações, as informações estão em ordem alfabética. Infelizmente, nem todos os brasões, logos, escudos estão com boa qualidade, por não ter as imagens em boa qualidade na internet.
 
-In alternative to LinkedIn, is possble to download resume in PDF version in links below:
+Todos brasões, logos, escudos aqui são baseados nas que estão nos sites oficiais de cada uma das forças, wikipedia, ou outras fontes de pesquisa.
 
-* English: [resume_2021_en-us.pdf](/assets/resume/resume_2021_en-us.pdf)
-* Brazilian portuguese: [curriculo_2021_pt-br.pdf](/assets/resume/curriculo_2021_pt-br.pdf)
+Então é isto, fiquem a vontade de ver os brasões, logos, escudos, comparar, ver semelhanças, diferenças e pontos que refletem sua cultura.
 
-I recommend to use my resume at LinkedIn because I usually update more in this platform instead here.
+* [Por estado](/brasoes-logos-escudos-estados)
+* [Por região](/brasoes-logos-escudos-regioes)
+* [Corpo de Bombeiros](/brasoes-logos-escudos-bombeiros)
+* [Polícia Civil](/brasoes-logos-escudos-pc)
+* [Polícia e Brigada Militar](/brasoes-logos-escudos-pm)
