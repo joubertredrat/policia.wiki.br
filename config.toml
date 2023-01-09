@@ -3,7 +3,6 @@ languageCode = "pt-br"
 title = "Polícia wiki"
 theme = "researcher"
 enableEmoji = true
-googleAnalytics = "G-CP72BMF0ET"
 
 [params]
   author = "Joubert RedRat"
