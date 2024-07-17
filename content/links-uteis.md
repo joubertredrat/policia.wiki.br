@@ -8,9 +8,9 @@ Abaixo link das respectivas forças de segurança.
 
 #### Acre (AC)
 
-* Corpo de Bombeiros: http://cbmac.acre.gov.br/
-* Polícia Civil: http://policiacivil.acre.gov.br/
-* Polícia Militar: http://pmac.acre.gov.br/
+* Corpo de Bombeiros: https://www.cbmac.ac.gov.br/
+* Polícia Civil: https://pc.ac.gov.br/
+* Polícia Militar: https://www.pm.ac.gov.br/
 
 #### Alagoas (AL)
 
