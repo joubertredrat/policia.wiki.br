@@ -10,7 +10,7 @@ Abaixo link das respectivas forças de segurança.
 
 * Corpo de Bombeiros: https://www.cbmac.ac.gov.br/
 * Polícia Civil: https://pc.ac.gov.br/
-* Polícia Militar: https://www.pm.ac.gov.br/
+* Polícia Militar: https://pm.ac.gov.br/
 
 #### Alagoas (AL)
 
@@ -46,7 +46,7 @@ Abaixo link das respectivas forças de segurança.
 
 * Corpo de Bombeiros: https://www.cbm.df.gov.br/
 * Polícia Civil: https://www.pcdf.df.gov.br/
-* Polícia Militar: http://www.pmdf.df.gov.br/
+* Polícia Militar: https://portal.pm.df.gov.br/
 
 #### Espírito Santo (ES)
 
@@ -87,7 +87,7 @@ Abaixo link das respectivas forças de segurança.
 #### Pará (PA)
 
 * Corpo de Bombeiros: https://www.bombeiros.pa.gov.br/
-* Polícia Civil: https://www.policiacivil.pa.gov.br/
+* Polícia Civil: https://pc.pa.gov.br/
 * Polícia Militar: https://www.pm.pa.gov.br/
 
 #### Paraíba (PB)
@@ -117,8 +117,8 @@ Abaixo link das respectivas forças de segurança.
 #### Rio de Janeiro (RJ)
 
 * Corpo de Bombeiros: http://www.cbmerj.rj.gov.br/
-* Polícia Civil: http://www.policiacivilrj.net.br/
-* Polícia Militar: https://www.pmerj.rj.gov.br/
+* Polícia Civil: https://www.policiacivil.rj.gov.br/
+* Polícia Militar: https://sepm.rj.gov.br/
 
 #### Rio Grande do Norte (RN)
 
@@ -135,13 +135,13 @@ Abaixo link das respectivas forças de segurança.
 #### Rondônia (RO)
 
 * Corpo de Bombeiros: https://www.cbm.ro.gov.br/
-* Polícia Civil: https://pc.ro.gov.br/
+* Polícia Civil: https://rondonia.ro.gov.br/pc/
 * Polícia Militar: https://pm.ro.gov.br/
 
 #### Roraima (RR)
 
-* Corpo de Bombeiros: http://www.bombeiros.rr.gov.br/
-* Polícia Civil: http://www.pc.rr.gov.br/
+* Corpo de Bombeiros: https://cbm.rr.gov.br/
+* Polícia Civil: https://policiacivil.rr.gov.br/
 * Polícia Militar: http://www.pm.rr.gov.br/
 
 #### Santa Catarina (SC)
@@ -164,6 +164,6 @@ Abaixo link das respectivas forças de segurança.
 
 #### Tocantins (TO)
 
-* Corpo de Bombeiros: https://bombeiros.to.gov.br/
+* Corpo de Bombeiros: https://www.to.gov.br/bombeiros
 * Polícia Civil: https://www.to.gov.br/ssp/policia-civil/
-* Polícia Militar: https://pm.to.gov.br/
+* Polícia Militar: https://www.to.gov.br/pm
